@@ -1,0 +1,16 @@
+dados_ERBs.csv
+*.csv
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/codeStyleSettings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/SVR-EV.iml
+.idea/vcs.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/vcs.xml
+__pycache__/database.cpython-36.pyc
+optimization/__pycache__/__init__.cpython-36.pyc
+optimization/__pycache__/cuckoosearch.cpython-36.pyc
+*.pyc
+tests.py
